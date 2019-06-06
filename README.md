@@ -1,4 +1,4 @@
-# The Pizza License
+# The Pizza License :pizza:
 
 ## Introduction
 
@@ -8,7 +8,7 @@ This is frustrating.
 
 Finally, I came across the [SUSHI-WARE](https://github.com/MakeNowJust/sushi-ware) license, itself an alcohol-free spin of the [BEER-WARE](https://people.freebsd.org/~phk/) license: I was struck by the purpose of the license, but... sushi? Beer? Don't get me wrong, I really like Japanese food (I'd rather have udon or tofu though) and I love beer, but while studying or writing software I absolutely need energy, in a form more "powerful" than simple coffee, btw check [COFFE-WARE](https://github.com/jack23247/espresso-license).
 
-So, under these terms and conditions, the [Pizza license](LICENSE) was born.
+So, under these terms and conditions, the [Pizza license](LICENSE) :pizza: was born.
 
 ## Applying
 
