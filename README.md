@@ -17,8 +17,6 @@ So, under these terms and conditions, the [Pizza license](LICENSE) was born.
 The process is easy as usual: copy the [`LICENSE`](LICENSE) file into your project's root folder, add your *copyright notice* and push.
 
 
-[![Pizza License]
-
 ## Contribute
 
 If you find a typo or you're keen to translate this to another language, please feel free to open an [issue](issues) or send a [pull request](pulls).
