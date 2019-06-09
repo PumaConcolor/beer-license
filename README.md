@@ -16,6 +16,15 @@ So, under these terms and conditions, the [Pizza license](LICENSE) :pizza: was b
 
 The process is easy as usual: copy the [`LICENSE`](LICENSE) file into your project's root folder, add your *copyright notice* and push.
 
+[![Pizza License :pizza:](https://img.shields.io/badge/-pizza-blue.svg)](https://github.com/PumaConcolor/pizza-license)
+
+Following [MakeNowJust](https://github.com/MakeNowJust)'s footsteps I also created this nice badge (a truly fascinating process...) you can include in your documentation or `README.md`, by copying the line below:
+
+```markdown
+[![Pizza License :pizza:](https://img.shields.io/badge/-pizza-blue.svg)](https://github.com/PumaConcolor/pizza-license)
+```
+
+If you do apply, please sign the [guestbook](GUESTBOOK.md)!
 
 ## Contribute
 
